@@ -1,16 +1,15 @@
 ## Hi there 👋
+I am Chaoskjell44 but you can just call me Chaos.
+Currently I am a Stundent in Germany working to get a better degree.
+In my free time I often learn coding, try myself at coding or help users with the [Tickets V2 Discord Bot](https://tickets.bot).
 
-<!--
-**Chaoskjell44/Chaoskjell44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I sometimes also stream on twitch (not often 🤣).
 
-Here are some ideas to get you started:
+Currently I maintain my own Selfhosted version of the Tickets V2 bot, A few other discord bot's and services and I am working on some secret stuff for Tickets V2.🤫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+If you want to contact me, write an email to [chaos@chaoskjell44.dev](mailto:chaos@chaoskjell44.dev) <sub>and please mention that you found it on github somewhere in your email🙏.</sub>
+
+I hope you have a nice day and thank you for reading,
+
+bye.👋
