@@ -5,7 +5,7 @@ In my free time I often learn coding, try myself at coding or help users with th
 
 I sometimes also stream on twitch (not often 🤣).
 
-Currently I maintain my own Selfhosted version of the Tickets V2 bot, A few other discord bot's and services and I am working on some secret stuff for a Discord Bot.🤫
+Currently I maintain my own Selfhosted version of the Tickets V2 bot, A few other discord bot's and services on top of working on some secret stuff for a Discord Bot.🤫
 
 
 If you want to contact me, write an email to [chaos@chaoskjell44.dev](mailto:chaos@chaoskjell44.dev) <sub>and please mention that you found it on github somewhere in your email🙏.</sub>
