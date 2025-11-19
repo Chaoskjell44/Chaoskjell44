@@ -1,6 +1,6 @@
 ## Hi there 👋
 I am Chaoskjell44 but you can just call me Chaos.
-Currently I am a Stundent in Germany working to get a better degree.
+Currently I am a Student in Germany working to get a better degree.
 In my free time I often learn coding, try myself at coding or help users with the [Tickets V2 Discord Bot](https://tickets.bot).
 
 I sometimes also stream on twitch (not often 🤣).
